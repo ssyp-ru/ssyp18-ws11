@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1531160055 source:c:\users\ssyp\documents\clean0\gates.c
+	<math.h>
+	"q.h"
+	<stdlib.h>
+
+1531169188 c:\users\ssyp\documents\clean0\q.h
+	"matrix.h"
+
+1531160130 c:\users\ssyp\documents\clean0\matrix.h
+	<complex.h>
+
+1531160130 source:c:\users\ssyp\documents\clean0\matrix.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"matrix.h"
+
+1531186468 source:c:\users\ssyp\documents\clean0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"q.h"
+	"gates.h"
+	<stdlib.h>
+
+1531055782 c:\users\ssyp\documents\clean0\gates.h
+	"q.h"
+
+1531169459 source:c:\users\ssyp\documents\clean0\q.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	"q.h"
+
+1531194994 source:h:\ssyp\clean0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"q.h"
+	"gates.h"
+	<stdlib.h>
+
+1531169190 h:\ssyp\clean0\q.h
+	"matrix.h"
+
+1531160132 h:\ssyp\clean0\matrix.h
+	<complex.h>
+
+1531055782 h:\ssyp\clean0\gates.h
+	"q.h"
+
+1531160132 source:h:\ssyp\clean0\matrix.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"matrix.h"
+
+1531169460 source:h:\ssyp\clean0\q.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	"q.h"
+
+1531190582 source:h:\ssyp\clean0\gates.c
+	<stdlib.h>
+	<math.h>
+	"q.h"
+
