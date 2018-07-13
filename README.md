@@ -26,7 +26,7 @@
 открыть q.cbp в Code::Blocks
 
 ### (2 вариант)
-$ gcc -o sample -lm matrix.c q.c gates.c main.c
+$ gcc -o sample matrix.c q.c gates.c main.c -lm
 
 (чтобы проект собирался в виде подключаемой библиотеки,
 нужно соответствующим образом настроить сборку)
